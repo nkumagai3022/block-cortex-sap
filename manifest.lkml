@@ -1,5 +1,5 @@
 constant: CONNECTION_NAME {
-  value: "sap-reporting"
+  value: "sap-cortex"
   export: override_required
 }
 
