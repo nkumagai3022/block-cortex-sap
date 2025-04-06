@@ -51,7 +51,7 @@ constant: sign_change_multiplier {
 
 #} end additional constants
 application: explore_assistant {
-  label: "Explore Assistant SAP"
+  label: "Explore Assistant SAP2"
   #url: "https://localhost:8080/bundle.js"
   file: "bundle.js"
   entitlements: {
