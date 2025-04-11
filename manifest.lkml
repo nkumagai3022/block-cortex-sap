@@ -1,15 +1,15 @@
 constant: CONNECTION_NAME {
-  value: "sap-cortex"
+  value: "sap-reporting"
   export: override_required
 }
 
 constant: GCP_PROJECT {
-  value: "nkumagai-450-20250410100242"
+  value: "nkumagai-sandbox"
   export: override_required
 }
 
 constant: REPORTING_DATASET {
-  value: "CORTEX_SAP_REPORTING"
+  value: "REPORTING"
   export: override_required
 }
 
